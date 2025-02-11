@@ -21,7 +21,7 @@ A stunning 3D web experience built with **TypeScript, Three.js, Tailwind CSS, Ne
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/euii-ii/3d-website-pt.9.git
 cd 3d-website
 ```
 
