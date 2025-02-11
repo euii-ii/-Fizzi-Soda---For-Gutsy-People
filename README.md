@@ -31,7 +31,7 @@ Welcome to the **3D Website** repository! This project showcases an interactive 
 ## 🏃 Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/euii-ii/3d-website-pt.9.git
 cd 3d-website
 ```
 
