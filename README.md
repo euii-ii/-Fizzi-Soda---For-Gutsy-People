@@ -14,7 +14,7 @@ A stunning 3D web experience built with **TypeScript, Three.js, Tailwind CSS, Ne
 
 ## 🖥️ Live Demo
 
-[🔗 View Live]
+[🔗 View Live] https://3d-website-pt-9.vercel.app
 
 ## 📦 Installation
 
