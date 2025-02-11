@@ -73,9 +73,5 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🙌 Contributions
-
-Feel free to fork this repository and submit pull requests.
-
 ---
 
