@@ -1,4 +1,3 @@
-
 # 3D Website
 
 A stunning 3D web experience built with **TypeScript, Three.js, Tailwind CSS, Next.js, and GSAP**. This project showcases interactive 3D elements, smooth animations, and a responsive design.
