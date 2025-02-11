@@ -1,4 +1,4 @@
-import { LinkField } from "@prismicio/client";
+import { LinkField } from "/client";
 import { PrismicNextLink } from "@prismicio/next";
 import clsx from "clsx";
 
