@@ -1,63 +1,82 @@
 
 # 3D Website
 
-Welcome to the **3D Website** repository! This project showcases an interactive 3D web experience built using **TypeScript, JavaScript, CSS, and GSAP**.
+A stunning 3D web experience built with **TypeScript, Three.js, Tailwind CSS, Next.js, and GSAP**. This project showcases interactive 3D elements, smooth animations, and a responsive design.
 
 ## 🚀 Features
-- **3D Elements**: Stunning 3D models and animations.
-- **Smooth Animations**: Powered by **GSAP (GreenSock Animation Platform)**.
-- **Optimized Performance**: Using efficient rendering techniques.
-- **Interactive UI**: Users can interact with elements dynamically.
-- **Responsive Design**: Works on desktop and mobile devices.
 
-## 🛠️ Technologies Used
-- **TypeScript & JavaScript**: For logic and interactivity.
-- **CSS**: For styling and layout.
-- **GSAP**: For fluid animations.
-- **Three.js** *(optional)*: If using WebGL for 3D rendering.
+- **Three.js** for rendering 3D scenes
+- **Next.js** for fast, server-side rendering
+- **TypeScript** for type safety and maintainability
+- **Tailwind CSS** for modern styling and responsiveness
+- **GSAP** for smooth animations and transitions
+- **Optimized Performance** with lazy loading and efficient rendering techniques
 
-## 📂 Project Structure
-```
-/  (Root Directory)
-|-- src/
-|   |-- assets/         # 3D models, textures, images
-|   |-- scripts/        # TypeScript & JavaScript files
-|   |-- styles/         # CSS files
-|-- index.html          # Main entry point
-|-- package.json        # Dependencies & scripts
-|-- README.md           # Project documentation
-```
+## 🖥️ Live Demo
 
-## 🏃 Getting Started
-### 1️⃣ Clone the Repository
+[🔗 View Live]
+
+## 📦 Installation
+
+Clone the repository:
+
 ```bash
-git clone https://github.com/euii-ii/3d-website-pt.9.git
+git clone 
 cd 3d-website
 ```
 
-### 2️⃣ Install Dependencies
+Install dependencies:
+
 ```bash
+yarn install
+# or
 npm install
 ```
 
-### 3️⃣ Start the Development Server
+## 🏗️ Usage
+
+Run the development server:
+
 ```bash
+yarn dev
+# or
 npm run dev
 ```
 
-### 4️⃣ Build for Production
-```bash
-npm run build
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 🛠️ Technologies Used
+
+- **[Next.js](https://nextjs.org/)** – React framework for SSR & SSG
+- **[Three.js](https://threejs.org/)** – JavaScript 3D library
+- **[GSAP](https://greensock.com/gsap/)** – High-performance animations
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework
+- **[TypeScript](https://www.typescriptlang.org/)** – Typed JavaScript
+
+## 📂 Project Structure
+
+```
+.
+├── public/            # Static assets
+├── src/
+│   ├── components/    # Reusable components
+│   ├── pages/         # Next.js pages
+│   ├── styles/        # Tailwind styles
+│   ├── utils/         # Helper functions
+│   ├── three/         # Three.js setup
+│   ├── animations/    # GSAP animations
+├── .gitignore
+├── package.json
+└── README.md
 ```
 
-## 🎮 Usage
-- Open `index.html` in a browser.
-- Interact with 3D elements and animations.
-- Enjoy the immersive experience! 🎉
+## 📜 License
 
-## 📝 License
-This project is open-source and available under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
+
+## 🙌 Contributions
+
+Feel free to fork this repository and submit pull requests.
 
 ---
 
-🔗 **Live Demo**: [Your Website URL]((https://3d-website-pt-9.vercel.app))
