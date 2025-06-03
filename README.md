@@ -1,5 +1,6 @@
 # 🥤 Fizzi Soda - For Gutsy People
 
+
 An immersive 3D web experience that brings the bold spirit of Fizzi Soda to life. Built with cutting-edge web technologies, this interactive showcase combines stunning 3D visuals, smooth animations, and modern design to create an unforgettable brand experience for those who dare to be different.
 
 ![Fizzi Soda](https://img.shields.io/badge/Fizzi-For%20Gutsy%20People-FF6B35?style=for-the-badge&logoColor=white)
